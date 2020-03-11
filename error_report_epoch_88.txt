@@ -32,10 +32,10 @@ kaze-stake@protonmail.com and I will see to it that you will get compensated
 with real ADA as soon as I have verified your Mainnet wallet address and the
 amount you lost through my mistake:
 
-10.4m : ed25519_sk1pvq4vs076q45pvgvqmhh6zhr2mstyfdvug37r6raxw344wtg7xcs745tmw
-1.3m  : ed25519_sk1ef0y2v4gq08gq6n79l9fjn7l3x8deme0sfrdk4z4ljm886ymykwq5tks4e
-100k  : ed25519_sk14kcu4sv92kg6x4ascyc383xzvxgcw9rzppg593uhdqr5l0ury9lsmykucu
-94.4k : ed25519_sk1tt3fnuyqrzs0nk07wz7n6qzys6s6dxvt0mtqlqsppgy9gazg4g6qfqryt9
-6.2k  : ed25519_sk1mksdtwe2e5psmlm2ahs38ytur9q58f56nz0uzpfyk7yqjlydxnzs4vrur5
-3.8k  : ed25519_sk1cpcerczmykxfvqp5tqj337sp679cftl2q5zkec6msph36428kkps6w94mt
-2.9k  : ed25519_sk10hw5krj32lphfnw70g4zsrphl9p863vwp4slldc9r330yfyz0v9sqq7uzx
+10.4m : ed25519_sk1pvq4vs076q45pvgvqmhh6zhr2mstyfdvug37r6raxw344wtg7xcs745tmw : 754 ADA
+1.3m  : ed25519_sk1ef0y2v4gq08gq6n79l9fjn7l3x8deme0sfrdk4z4ljm886ymykwq5tks4e :  95 ADA
+100k  : ed25519_sk14kcu4sv92kg6x4ascyc383xzvxgcw9rzppg593uhdqr5l0ury9lsmykucu :   8 ADA
+94.4k : ed25519_sk1tt3fnuyqrzs0nk07wz7n6qzys6s6dxvt0mtqlqsppgy9gazg4g6qfqryt9 :   7 ADA
+6.2k  : ed25519_sk1mksdtwe2e5psmlm2ahs38ytur9q58f56nz0uzpfyk7yqjlydxnzs4vrur5 :   1 ADA
+3.8k  : ed25519_sk1cpcerczmykxfvqp5tqj337sp679cftl2q5zkec6msph36428kkps6w94mt :   1 ADA
+2.9k  : ed25519_sk10hw5krj32lphfnw70g4zsrphl9p863vwp4slldc9r330yfyz0v9sqq7uzx :   1 ADA
