@@ -5,6 +5,9 @@ problem has been ongoing since updating to JorManager 0.2.8 and an error has
 been repeating in the logs for two days without me catching it. During that
 time 9 out of 10 blocks were minted without problem.
 
+The error/warning in question was:
+WARN request timed out or failed unexpectedly, error: Error(Elapsed), request: GetHeadersRange, task: client-query
+
 The reason I activated this feature was ironically to reduce the amount of
 missed competitive blocks by giving a process about to mint a block much
 higher CPU priority. This seems to have caused the error.
