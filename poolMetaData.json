@@ -1,6 +1,1 @@
-{
-"name": "Kaze",
-"description": "風",
-"ticker": "KAZE",
-"homepage": "https://kaze-stake.github.io"
-}
+{"name": "Kaze", "ticker": "KAZE", "description": "Air-cooled high-end gaming PC repurposed into a server and backed up by several NUC relays. Located in Sweden and powered with renewable energy.", "homepage": "https://kaze-stake.github.io", "extended": "https://data.pooltool.io/md/0eec5b05-3290-48ce-95fa-2dd809ec581a"}
